@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  phone: "1231231234"
+  has_challenge_mode: false
+  has_sharing: false
+  username: tuser1
+  auth_token: "fdlsjkhgskjghs"
+
+two:
+  phone: "1231231234"
+  has_challenge_mode: false
+  has_sharing: false
+  username: tuser2
+  auth_token: "45398gyher"

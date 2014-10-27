@@ -1,0 +1,2 @@
+module ShotHelper
+end
